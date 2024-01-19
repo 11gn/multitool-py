@@ -8,7 +8,7 @@ try:
     import time
 
 except:
-    os.system("pip install pystyle colorama datetime asyncio")
+    os.system("pip install pystyle colorama datetime asyncio") # if this doesnt work pip install manually
     
     
     
